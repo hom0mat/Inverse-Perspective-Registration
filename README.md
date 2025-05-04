@@ -55,3 +55,8 @@ It is especially useful for robotics, augmented reality, and teleoperation pipel
 
 In this implementation, Processing is applied to read the JSON file. The required code is in the folder reto_2.
 
+👩‍💻 Author: César Mateo Sánchez Álvarez
+
+Robotics & Embedded Systems Student 💻🤖
+
+A01541805@tec.mx | Tecnológico de Monterrey
